@@ -14,18 +14,9 @@ Sou estudante de **Ciência da Computação** na **UFLA** (Universidade Federal 
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/guilhermeoliveirabrito">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliveirabrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoliveirabrito&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-<br>
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-de-brito-silva-477051390/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhrm3brito@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gui.brito)
+
+**Email:** guilhrm3brito@gmail.com
